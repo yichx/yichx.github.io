@@ -1,15 +1,10 @@
 ---
-title: "Paper Title Number 2"
+title: "Toward Robust Recommendation via ..."
 collection: publications
-permalink: /publication/2010-10-01-paper-title-number-2
-excerpt: 'This paper is about the number 2. The number 3 is left for future work.'
-date: 2010-10-01
-venue: 'Journal 1'
-paperurl: 'http://academicpages.github.io/files/paper2.pdf'
-citation: 'Your Name, You. (2010). &quot;Paper Title Number 2.&quot; <i>Journal 1</i>. 1(2).'
+excerpt: "In this paper, we propose a noval method to implement an attack-agnostic and model-agnostic defense against poisoning attacks in recommender systems. For each user, we leverage its neighbors to adjust the network, unlearning the malicious influence and finally make a robust prediction. In this project, I did all experiment, conducted the theoretical proof and wrote the paper."
+date: 2023-08-15
+venue: 'AAAI'
 ---
-This paper is about the number 2. The number 3 is left for future work.
+In this paper, we propose a noval method to implement an attack-agnostic and model-agnostic defense against poisoning attacks in recommender systems. For each user, we leverage its neighbors to adjust the network, unlearning the malicious influence and finally make a robust prediction. In this project, I did all experiment, conducted the theoretical proof and wrote the paper.
 
 [Download paper here](http://academicpages.github.io/files/paper2.pdf)
-
-Recommended citation: Your Name, You. (2010). "Paper Title Number 2." <i>Journal 1</i>. 1(2).
