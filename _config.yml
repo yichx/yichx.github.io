@@ -7,7 +7,7 @@
 
 # Site Settings
 locale                   : "en-US"
-title                    : "Yichang Xu's Homepage"
+title                    : "About"
 title_separator          : "-"
 name                     : &name "Yichang Xu"
 description              : &description "undergraduate of USTC"
@@ -74,7 +74,7 @@ analytics:
 
 # Site Author
 author:
-  name             : "Yichang Xu"
+  name             :
   avatar           : 
   bio              : 
   location         : "USTC, Anhui, China"
