@@ -4,9 +4,7 @@ collection: publications
 permalink: /publication/2009-10-01-paper-title-number-1
 excerpt: "I am the first author to write this paper. Having found that existing defenses are weak in client-side reconstruction attacks in federated learning, this paper proposes an aggregation rule to mitigate such attacks. What's more, it proposes an adaptive attack that can slightly subvert the defense. "
 date: 2023-06-28
-venue: 'Journal 1'
 paperurl: 'http://academicpages.github.io/files/paper1.pdf'
-citation: 'Your Name, You. (2010). &quot;Paper Title Number 2.&quot; <i>Journal 1</i>. 1(2).'
 ---
 I am the first author to write this paper. Having found that existing defenses are weak in client-side reconstruction attacks in federated learning, this paper proposes an aggregation rule to mitigate such attacks. What's more, it proposes an adaptive attack that can slightly subvert the defense. 
 
