@@ -75,8 +75,8 @@ analytics:
 # Site Author
 author:
   name             : "Yichang Xu"
-  avatar           : "profile.png"
-  bio              : "A senior in USTC, researching on trustworthy machine learning"
+  avatar           : 
+  bio              : 
   location         : "USTC, Anhui, China"
   employer         :
   pubmed           : 
