@@ -12,8 +12,8 @@ I am a fourth year undergraduate student in School of the Gifted Young at Univer
 
 ## Education
 * GPA:3.91(major), 3.77(cumulative)
-* Computer Science Coursework:  Introduction to Computer Systems(98), Operating System(H)(96), Computer Programming A(92), C Language Programming II(95), Data Structure(90), Computer Networks(91), Network System Experiment(93), Introduction to Information Security(96).
-* Mathematics Coursework:  Functions of Complex VariableB(91), Equations of Mathematical Physics(91), Fundations of Mathematical Logic(95), Introduction to Formal Method(96), Mathematical Analysis B1(97), Mathematical Analysis B2(90), Linear Algebra B1(95),  Stochastic Processes B(95).
+* CS:  Introduction to Computer Systems(98), Operating System(H)(96), Computer Programming A(92), C Language Programming II(95), Data Structure(90), Introduction to Information Security(96).
+* Math:  Linear Algebra B1(95), Mathematical Analysis B1(97), Mathematical Analysis B2(90), Fundations of Mathematical Logic(95), Introduction to Formal Method(96), Stochastic Processes B(95).(only list partial important courses)
 
 ## Research Experiences
 * <span style="color: #007bff;"><b>Poisoning Federated Recommendation Using Fake Users</b></span>  
