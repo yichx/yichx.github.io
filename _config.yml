@@ -76,11 +76,11 @@ analytics:
 author:
   name             :
   bio              : 
-  location         : "University of Science and Technology of China"
+  location         : "USTC, Hefei, China"
   employer         :
   pubmed           : 
   googlescholar    : 
-  email            :
+  email            : xuyichang@mail.ustc.edu.cn
   researchgate     :  # example: "https://www.researchgate.net/profile/yourprofile"
   uri              :
   bitbucket        :
