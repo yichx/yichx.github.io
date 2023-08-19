@@ -17,7 +17,7 @@ I am a fourth year undergraduate student in School of the Gifted Young at Univer
 * **Mathematics Coursework:**  Functions of Complex VariableB(91), Equations of Mathematical Physics(91), Fundations of Mathematical Logic(95), Introduction to Formal Method(96), Mathematical Analysis B1(97), Mathematical Analysis B2(90), Linear Algebra B1(95),  Stochastic Processes B(95).
 
 ## Research Experiences
-* <span style="color: blue;">Poisoning Federated Recommendation Using Fake Users</span>(July, 2023 to October, 2023(expected))  
+* <span style="color: blue;"><b>Poisoning Federated Recommendation Using Fake Users</b></span>(July, 2023 to October, 2023(expected))  
 Advisor: Neil Zhenqiang Gong(Duke)
   * Use fake users with absolutely no extra knowledge to attack the federated recommender system.
   * Shown to be effective on robust aggregation rules even when the proportion of fake users is extremely low
