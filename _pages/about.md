@@ -14,8 +14,8 @@ Education
 ======
 * School of the Gifted Young, University of Science and Technology of China
 * GPA:3.91(major), 3.77(cumulative)
-* **Computer Science Coursework:**  Introduction to Computer Systems(98), Operating System(H)(96), Computer Programming A(92), C Language Programming II(95), Data Structure(90).
-* **Mathematics Coursework:**  Functions of Complex VariableB(91), Equations of Mathematical Physics(91), Fundations of Mathematical Logic(95), Introduction to Formal Method(96), Mathematical Analysis B1(97), Mathematical Analysis B2(90), Linear Algebra B1(95).
+* **Computer Science Coursework:**  Introduction to Computer Systems(98), Operating System(H)(96), Computer Programming A(92), C Language Programming II(95), Data Structure(90), Computer Networks(91), Network System Experiment(93), Introduction to Information Security(96).
+* **Mathematics Coursework:**  Functions of Complex VariableB(91), Equations of Mathematical Physics(91), Fundations of Mathematical Logic(95), Introduction to Formal Method(96), Mathematical Analysis B1(97), Mathematical Analysis B2(90), Linear Algebra B1(95),  Stochastic Processes B(95).
 
 Research Experiences
 ======
