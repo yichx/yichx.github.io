@@ -10,4 +10,3 @@ date: 2023-06-28
 * Having found that existing defenses are weak in client-side reconstruction attacks in federated learning, this paper proposes an aggregation rule to mitigate such attacks. What's more, it proposes an adaptive attack that uses PGD to slightly subvert the defense.
 * I conducted experiments, proposed the adaptive attack and wrote the paper.
 
-[Download paper here](http://academicpages.github.io/files/paper1.pdf)
