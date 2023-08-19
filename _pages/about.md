@@ -22,7 +22,7 @@ I am a fourth year undergraduate student in School of the Gifted Young at Univer
   * Shown to be effective on robust aggregation rules even when the proportion of fake users is extremely low
 
 * <span style="color: #007bff;"><b>Apply Real-time Vicinal Defense make the Robust Recommendation</b></span>  
-  * I am the first author, advised by Prof. Defu Lian, submitted to AAAI on Aug. 2023.
+  * I am the first author, advised by Prof. Defu Lian in USTC, submitted to AAAI on Aug. 2023.
   * Adjust the model in inference phase to unlearn the malicious influence
   * Conducted a theoretical bound about its unlearning ability
   * Apply our method to further improve other robust defenses
