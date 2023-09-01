@@ -9,8 +9,7 @@ redirect_from:
 
 {% include base_path %}
 
-
-  
+<br><br>
 My interest in computer science and mathematics can be traced back to my early childhood. During high school, I won awards in mathematics and computer programming competitions. At the age of 16, I attended the School of the Gifted Young at the University of Science and Technology of China (USTC). During my undergraduate studies, I realized the importance of mathematics in computer research. I excelled in all my math courses and self-studied advanced mathematical theories such as matrix analysis and convex optimization.
 
 In my first year of college, I participated in a research project on cloud computing and machine learning systems at Imperial College London. This was my first experience with scientific research, where I explored parallelization efficiency of decision trees and learned about the application of distributed computing in machine learning. I also gained knowledge about writing academic papers, and my performance received high recognition from Professor Peter Piezutch.
