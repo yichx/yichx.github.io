@@ -7,7 +7,7 @@
 
 # Site Settings
 locale                   : "en-US"
-title                    : "About"
+title                    : "CV"
 title_separator          : "-"
 name                     : &name "Yichang Xu"
 description              : &description "undergraduate of USTC"
