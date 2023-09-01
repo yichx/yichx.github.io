@@ -40,6 +40,11 @@ I am a fourth year undergraduate student in School of the Gifted Young at Univer
 * ACM ICPC regional prize,bronze medal
 * Mathematics Competition in Anhui(2021), second prize
 
+## TA Experiences
+* Computer Programming A (Baizong Wang), 2023 Fall
+* Foundation of Mathematical Logic (Guiquan Liu), 2023 Spring
+* Introduction to Computing Systems (Hong An), 2022 Fall
+
 ## Skills
 * Adept in Assembly Language,C/C++,Python,Rust,Verilog,Java,C#
 * Deep understanding of machine learning and deep learning
