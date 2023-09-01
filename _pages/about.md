@@ -27,7 +27,7 @@ I am a fourth year undergraduate student in School of the Gifted Young at Univer
   * Apply our method to further improve other robust defenses
 
 * <span style="color: #007bff;"><b>Robust Federated Learning Mitigates Client-side Data Reconstruction Attacks</b></span>  
-  * I am the first author, advised by Prof. Neil Zhenqiang Gong, submitted to NDSS on July 2023.
+  * I am the first author, advised by Prof. Neil Zhenqiang Gong in Duke University, submitted to NDSS on July 2023.
   * Test that existing aggregation rules are vulnerable in mitigating client-side data reconstruction attacks
   * Propose an aggregation rule to mitigate client-side data reconstruction attacks
   * Propose an adaptive attack that can slightly subvert our defense, but our defense still appears to be robust
