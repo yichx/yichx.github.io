@@ -33,10 +33,10 @@ I am a fourth year undergraduate student in School of the Gifted Young at Univer
   * Propose an adaptive attack that can slightly subvert our defense, but our defense still appears to be robust
   
 ## Awards & Honors
-* Talent Student Prize(gold, 2022)
+* Talent Student Prize(gold, 3%, 2022)
 * Hua Xia Talent Program First Prize Scholarship(2022)
 * Hua Xia Talent Program First Prize Scholarship(2020)
-* Talent Student Price(silver,2021)
+* Talent Student Price(silver, 10%, 2021)
 * ACM ICPC regional prize,bronze medal
 * Mathematics Competition in Anhui(2021), second prize
 
