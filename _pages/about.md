@@ -21,13 +21,14 @@ I am a fourth year undergraduate student in School of the Gifted Young at Univer
   * Shown to be effective on robust aggregation rules even when the proportion of fake users is extremely low
 
 * <span style="color: #007bff;"><b>Apply Real-time Vicinal Defense make the Robust Recommendation</b></span>  
-  * I am the first author, advised by Prof. Defu Lian in USTC, submitted to AAAI on Aug. 2023.
+  * I am the first author. I have conducted all the experiments, derived mathematical proofs, and written the entire paper.
+  * Advised by Prof. Defu Lian in USTC, submitted to AAAI on Aug. 2023.
   * Adjust the model in inference phase to unlearn the malicious influence
   * Conducted a theoretical bound about its unlearning ability
   * Apply our method to further improve other robust defenses
 
 * <span style="color: #007bff;"><b>Robust Federated Learning Mitigates Client-side Data Reconstruction Attacks</b></span>  
-  * I am the first author, advised by Prof. Neil Zhenqiang Gong in Duke University, submitted to NDSS on July 2023.
+  * I am the first author. I have proposed the adaptive attack using PGD, conducted all experiments, and written the entire paper. Advised by Prof. Neil Zhenqiang Gong in Duke University, submitted to NDSS on July 2023.
   * Test that existing aggregation rules are vulnerable in mitigating client-side data reconstruction attacks
   * Propose an aggregation rule to mitigate client-side data reconstruction attacks
   * Propose an adaptive attack that can slightly subvert our defense, but our defense still appears to be robust
