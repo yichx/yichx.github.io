@@ -19,9 +19,9 @@ I am a fourth year undergraduate student in School of the Gifted Young at Univer
   * I have proposed the attacking method and conducted all experiments and written the paper.
   * Advised by Prof. Neil Zhenqiang Gong in Duke University, planning to submit to UseNix on Oct. 2023.
   * Contribution:
-    * Use fake users with absolutely no extra knowledge to attack the federated recommender system.
-    * Shown to be effective on robust aggregation rules even when the proportion of fake users is extremely low.
-    * Proposed a method to automatically find the hyper-parameter.
+  1. Use fake users with absolutely no extra knowledge to attack the federated recommender system.
+  2. Shown to be effective on robust aggregation rules even when the proportion of fake users is extremely low.
+  3. Proposed a method to automatically find the hyper-parameter.
 
 * <span style="color: #007bff;"><b>Apply Real-time Vicinal Defense make the Robust Recommendation</b></span>  
   * I am the first author. I have conducted all the experiments, derived mathematical proofs, and written the entire paper.
