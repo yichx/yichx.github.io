@@ -15,8 +15,8 @@ I am a fourth year undergraduate student in School of the Gifted Young at Univer
 * Math:  Linear Algebra B1(95), Mathematical Analysis B1(97), Mathematical Analysis B2(90), Fundations of Mathematical Logic(95), Introduction to Formal Method(96), Stochastic Processes B(95).(only list partial important courses)
 
 ## Research Experiences
-* <span style="color: #007bff;"><b>Poisoning Federated Recommendation Using Fake Users</b></span>  
-  * Advised by Prof. Neil Zhenqiang Gong in Duke University, planning to submit to UseNix on Oct. 2023.
+* <span style="color: #007bff;"><b>Poisoning Federated Recommendation Using Fake Users</b></span>
+  * I have proposed the attacking method and conducted all experiments and written the paper. &nbsp;Advised by Prof. Neil Zhenqiang Gong in Duke University, planning to submit to UseNix on Oct. 2023.
   * Use fake users with absolutely no extra knowledge to attack the federated recommender system.
   * Shown to be effective on robust aggregation rules even when the proportion of fake users is extremely low
 
