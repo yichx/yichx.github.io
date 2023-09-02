@@ -18,18 +18,14 @@ I am a fourth year undergraduate student in School of the Gifted Young at Univer
 * <span style="color: #007bff;"><b>Poisoning Federated Recommendation Using Fake Users</b></span>
   * I have proposed the attacking method and conducted all experiments and written the paper.
   * Advised by Prof. Neil Zhenqiang Gong in Duke University, planning to submit to UseNix on Oct. 2023.
-  * Contribution:
-  1. Use fake users with absolutely no extra knowledge to attack the federated recommender system.
-  2. Shown to be effective on robust aggregation rules even when the proportion of fake users is extremely low.
-  3. Proposed a method to automatically find the hyper-parameter.
+  * Contribution: (1) Use fake users with absolutely no extra knowledge to attack the federated recommender system. (2) Shown to be effective on robust aggregation rules even when the proportion of fake users is extremely low. (3) Proposed a method to automatically find the hyper-parameter.
 
 * <span style="color: #007bff;"><b>Apply Real-time Vicinal Defense make the Robust Recommendation</b></span>  
   * I am the first author. I have conducted all the experiments, derived mathematical proofs, and written the entire paper.
   * Advised by Prof. Defu Lian in USTC, submitted to AAAI on Aug. 2023.
-  * Contribution:
-    * Adjust the model in inference phase to unlearn the malicious influence
-    * Conducted a theoretical bound about its unlearning ability
-    * Apply our method to further improve other robust defenses
+  * Adjust the model in inference phase to unlearn the malicious influence
+  * Conducted a theoretical bound about its unlearning ability
+  * Apply our method to further improve other robust defenses
 
 * <span style="color: #007bff;"><b>Robust Federated Learning Mitigates Client-side Data Reconstruction Attacks</b></span>  
   * I am the first author. I have proposed the adaptive attack using PGD, conducted all experiments, and written the entire paper.
