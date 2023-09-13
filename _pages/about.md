@@ -23,10 +23,10 @@ I am a fourth year undergraduate student in School of the Gifted Young at Univer
 
 ## Research Experiences
 <span style="color: #007bff;"><b>Poisoning Federated Recommendation Using Fake Users</b></span>
-Advisor: Prof. \href{https://people.duke.edu/~zg70/}{Neil Zhenqiang Gong}
-* I have proposed the attacking method and conducted all experiments and written the paper.
-* Advised by Prof. Neil Zhenqiang Gong in Duke University, planning to submit to UseNix on Oct. 2023.
-* Contribution: &nbsp;(1) Use fake users with absolutely no extra knowledge to attack the federated recommender system. &nbsp;(2) Shown to be effective on robust aggregation rules even when the proportion of fake users is extremely low. &nbsp;(3) Proposed a method to automatically find the hyper-parameter.
+Advisor: Prof. [Neil Zhenqiang Gong](https://people.duke.edu/~zg70/)
+* Found that current poisoning attacks on federated recommender system either need additional information like the interaction matrix or local training data, which is not practical.
+* Proposed a method that uses fake users with absolutely no extra knowledge and no local training data. This method directly constructs a target model to perform the attack.
+* Examined to be effective on robust aggregation rules even when the proportion of fake users is extremely low, largely surpassed baselines.
 
 <span style="color: #007bff;"><b>Apply Real-time Vicinal Defense make the Robust Recommendation</b></span>  
 * I am the first author. I have conducted all the experiments, derived mathematical proofs, and written the entire paper.
