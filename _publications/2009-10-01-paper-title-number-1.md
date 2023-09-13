@@ -2,7 +2,7 @@
 title: "Robust Federated Learning Mitigates Client-side Data Reconstruction Attacks"
 collection: publications
 permalink: /publication/2009-10-01-paper-title-number-1
-excerpt: "I am the first author. This paper introduces an aggregation rule to mitigate data reconstruction attacks. Additionally, it presents an adaptive attack that has the capability to subtly undermine the proposed defense. &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<a href='/publication/2009-10-01-paper-title-number-1' target='_blank' style='color: #007bff; text-decoration: none; font-size: 20px;'>details...</a>"
+excerpt: "This paper introduces an aggregation rule to mitigate data reconstruction attacks. Additionally, it presents an adaptive attack that has the capability to subtly undermine the proposed defense. &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<a href='/publication/2009-10-01-paper-title-number-1' target='_blank' style='color: #007bff; text-decoration: none; font-size: 20px;'>details...</a>"
 venue: 'WWW'
 submitted: 0
 date: 2023-10-05
