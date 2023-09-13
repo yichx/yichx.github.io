@@ -11,7 +11,7 @@ I am a fourth year undergraduate student in School of the Gifted Young at Univer
 
 ## Education
 * Overall avg score: 88.7, major avg score: 90.2
-* CS: Operating System(H)(96), C Language Programming II(95), Data Structure(90), Introduction to Computer Systems A(98), Introduction to Information Security(96)
+* CS: Introduction to Computer Systems A(98), Operating System(H)(96), C Language Programming II(95), Data Structure(90), Introduction to Information Security(96)
 * Math: Linear Algebra B1(95), Mathematical Analysis B1(97), Mathematical Analysis B2(90), Fundations of Mathematical Logic(95), Introduction to Formal Method(96), Stochastic Processes B(95).
 
 ## Publications & Manuscripts
@@ -42,11 +42,11 @@ Advisor: Prof. [Neil Zhenqiang Gong](https://people.duke.edu/~zg70/) (Duke Unive
   
 ## Awards & Honors
 * Qiangwei-Xin He Scholarship (top 8 in SCGY department, 2023)
-* Outstanding Student Scholarship(gold, 3%, 2022)
-* Hua Xia Talent Program Scholarship(2022)
-* Outstanding Student Scholarship(silver, 10%, 2021)
-* Hua Xia Talent Program First Prize Scholarship(2020)
-* Mathematics Competition in Anhui(2021), second prize
+* Outstanding Student Scholarship (gold, 3%, 2022)
+* Hua Xia Talent Program Scholarship (2022)
+* Outstanding Student Scholarship (silver, 10%, 2021)
+* Hua Xia Talent Program First Prize Scholarship (2020)
+* Mathematics Competition in Anhui (2021), second prize
 
 ## TA Experiences
 * Computer Programming A (Baizong Wang), 2023 Fall
