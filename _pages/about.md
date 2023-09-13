@@ -11,7 +11,7 @@ I am a fourth year undergraduate student in School of the Gifted Young at Univer
 
 ## Education
 * Overall avg score: 88.7, major avg score: 90.2
-* CS: Introduction to Computer Systems A(98), Operating System(H)(96), C Language Programming II(95), Data Structure(90), Introduction to Information Security(96)
+* CS: Operating System(H)(96), C Language Programming II(95), Introduction to Computer Systems A(98), Data Structure(90), Introduction to Information Security(96)
 * Math: Linear Algebra B1(95), Mathematical Analysis B1(97), Mathematical Analysis B2(90), Fundations of Mathematical Logic(95), Introduction to Formal Method(96), Stochastic Processes B(95).
 
 ## Publications & Manuscripts
@@ -41,7 +41,7 @@ Advisor: Prof. [Neil Zhenqiang Gong](https://people.duke.edu/~zg70/) (Duke Unive
 * Compared our method on 10 baselines and 5 datasets. It significantly surpassed those baselines across many evaluation metrics. The method was also shown to be effective in membership inference attacks.
   
 ## Awards & Honors
-* Qiangwei-Xin He Scholarship (top 8 in SCGY department, 2023)
+* Qiangwei-Xinhe Scholarship (top 8 in SCGY department, 2023)
 * Outstanding Student Scholarship (gold, 3%, 2022)
 * Hua Xia Talent Program Scholarship (2022)
 * Outstanding Student Scholarship (silver, 10%, 2021)
