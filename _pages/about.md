@@ -11,7 +11,7 @@ I am a fourth year undergraduate student in School of the Gifted Young at Univer
 
 ## Education
 * Overall avg score: 88.7, major avg score: 90.2
-* Math & CS: Linear Algebra B1(95), Mathematical Analysis B1(97), Mathematical Analysis B2(90), Fundations of Mathematical Logic(95), Introduction to Formal Method(96), Stochastic Processes B(95), C Language Programming II(95), Introduction to Computer Systems A(98), Data Structure(90), Introduction to Information Security(96), Operating System(H)(96)...
+* Math & CS: &nbsp;Linear Algebra B1(95), Mathematical Analysis B1(97), Mathematical Analysis B2(90), Fundations of Mathematical Logic(95), Introduction to Formal Method(96), Stochastic Processes B(95), C Language Programming II(95), Introduction to Computer Systems A(98), Data Structure(90), Introduction to Information Security(96), Operating System(H)(96)...
 
 ## Publications & Manuscripts
 \[1\] **Yichang Xu**, Chenwang Wu and Defu Lian. Apply Real-time Vicinal Defense make the Robust Recommendation. Submitted to *AAAI Conference on Artificial Intelligence (AAAI)*, 2024.
