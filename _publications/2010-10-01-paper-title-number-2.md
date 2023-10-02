@@ -2,7 +2,7 @@
 title: "Apply Real-time Vicinal Defense make the Robust Recommendation"
 collection: publications
 excerpt: "First author. The paper proposes an attack-agnostic and model-agnostic defense against poisoning attacks in recommender systems. We also conduct a theoretical bound about the unlearning strength. &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<a href='/publication/2010-10-01-paper-title-number-2' target='_blank' style='color: #007bff; text-decoration: none; font-size: 20px;'>details...</a>"
-date: 2023-08-15
+date: 2023-11-15
 permalink: /publication/2010-10-01-paper-title-number-2
 submitted: 1
 venue: 'AAAI'
