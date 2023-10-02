@@ -7,6 +7,7 @@ permalink: /publication/2010-10-01-paper-title-number-2
 submitted: 1
 venue: 'AAAI'
 preprint: https://arxiv.org/abs/2309.17278
+preprinted: 1
 ---
 * First author. &nbsp;Supervisor: Prof. Defu Lian, USTC.
 * Contribution: We propose Real-time Neighborhood Defense (RVD) to enhance the robustness of the model. During the inference phase, for each user, we select its neighbors and fine-tune the model on them. This is an unlearning process, and we theoretically guarantee its unlearning strength. Our approach can effectively defend against different poisoning attacks on different models. By applying our method on other defenses, we can further improve their robustness.
