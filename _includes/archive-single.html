@@ -45,7 +45,7 @@
           <p>Planning to submit to <i>{{ post.venue }}</i>, on {{ post.date | default: "1900-01-01" | date: "%Y" }} </p>
           {% else %}
             {% if page.preprint %}
-              <p>Submitted to <i>{{ post.venue }}</i>, on {{ post.date | default: "1900-01-01" | date: "%Y" }} <a href={{ page.preprint }}>arXiv preprint</a></p>
+              <p>Submitted to <i>{{ post.venue }}</i>, on {{ post.date | default: "1900-01-01" | date: "%Y" }} <a href={{ post.preprint }}>arXiv preprint</a></p>
             {% else %}
               <p>Submitted to <i>{{ post.venue }}</i>, on {{ post.date | default: "1900-01-01" | date: "%Y" }} </p>
             {% endif %}
