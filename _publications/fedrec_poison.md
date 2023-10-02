@@ -6,6 +6,7 @@ excerpt: "Co-first author. This paper proposes a poisoning attack on federated r
 submitted: 0
 venue: 'UseNix'
 date: 2023-10-15
+preprinted: 0
 ---
 * Co-first author. &nbsp;Supervisor: Prof. Neil Zhenqiang Gong, Duke University.
 * Contribution: Federated recommendation attack based on fake users. Conducting effective attacks with each fake client having no knowledge of any additional information, the attack's impact surpasses even the baseline where the attacker possesses partial extra information.
