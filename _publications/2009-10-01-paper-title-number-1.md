@@ -6,6 +6,7 @@ excerpt: "Co-first author. This paper introduces an aggregation rule to mitigate
 venue: 'WWW'
 submitted: 0
 date: 2023-10-05
+preprinted: 0
 ---
 * Co-first author. &nbsp; Supervisor: Prof. Neil Zhenqiang Gong, Duke University.
 * Contribution: We verified that known defense measures are not effective in defending against data reconstruction attacks in federated learning. To address this, a simple yet effective approach is proposed: after users upload model updates, the server calculates the coordinate-wise median and only selects model updates within a certain range from the median based on their distance. This range is determined by the l2 norm of the median. In addition to this defense, we also propose an adaptive attack using PGD to disguise the attacker's model update, which can partially weaken the defense effect but the defense remains effective.
