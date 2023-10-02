@@ -21,17 +21,17 @@ I am a fourth year undergraduate student in School of the Gifted Young at Univer
 \[3\] **Yichang Xu**\*, Ming Yin\*, Minghong Fang and Neil Zhenqiang Gong. Robust Federated Learning Mitigates Client-side Data Reconstruction Attacks. Planning to submit to *The Web Conference (WWW)*, 2024.
 
 ## Research Experiences
-<span style="color: #007bff;"><b>Poisoning Federated Recommendation Using Fake Users</b></span>  
-Advisor: Prof. [Neil Zhenqiang Gong](https://people.duke.edu/~zg70/) (Duke University)
-* Found that current poisoning attacks on federated recommender system either need additional information like the interaction matrix or local training data, which is not practical.
-* Proposed a method that uses fake users with absolutely no extra knowledge and no local training data. This method directly constructs a target model to perform the attack.
-* Examined to be effective on robust aggregation rules even when the proportion of fake users is extremely low, largely surpassed baselines.
-
 <span style="color: #007bff;"><b>Apply Real-time Vicinal Defense make the Robust Recommendation</b></span>  
 Advisor: Prof. [Defu Lian](http://staff.ustc.edu.cn/~liandefu/) (USTC)
 * Found that most defenses are specified to a certain type of models or attacks, which lacks the generality.
 * Observed that malicious data resides in blind spots of the latent space, but if concentrate on a single user, its neighbors are likely to be benign. Proposed a method that adjusts the model in inference phase to unlearn the malicious influence. Conducted a theoretical bound about its unlearning ability.
 * Shown to be quite effective on many state-of-the-art attacks as well as on many recommender systems. Applied our method on other robust defenses and saw further improvements.
+
+<span style="color: #007bff;"><b>Poisoning Federated Recommendation Using Fake Users</b></span>  
+Advisor: Prof. [Neil Zhenqiang Gong](https://people.duke.edu/~zg70/) (Duke University)
+* Found that current poisoning attacks on federated recommender system either need additional information like the interaction matrix or local training data, which is not practical.
+* Proposed a method that uses fake users with absolutely no extra knowledge and no local training data. This method directly constructs a target model to perform the attack.
+* Examined to be effective on robust aggregation rules even when the proportion of fake users is extremely low, largely surpassed baselines.
 
 <span style="color: #007bff;"><b>Robust Federated Learning Mitigates Client-side Data Reconstruction Attacks</b></span>  
 Advisor: Prof. [Neil Zhenqiang Gong](https://people.duke.edu/~zg70/) (Duke University)
