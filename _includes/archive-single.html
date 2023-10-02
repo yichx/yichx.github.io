@@ -45,7 +45,7 @@
           <p>Planning to submit to <i>{{ post.venue }}</i>, on {{ post.date | default: "1900-01-01" | date: "%Y" }} </p>
           {% else %}
             {% if post.preprint %}
-              <p>Submitted to <i>{{ post.venue }}</i>, on {{ post.date | default: "1900-01-01" | date: "%Y" }} <a href="https://arxiv.org/abs/2309.17278" style="color: #007bff; text-decoration: none;">arXiv preprint</a></p>
+              <p>Submitted to <i>{{ post.venue }}</i>, on {{ post.date | default: "1900-01-01" | date: "%Y" }} &nbsp;<a href="https://arxiv.org/abs/2309.17278" style="color: #007bff; text-decoration: none;">arXiv preprint</a></p>
             {% else %}
               <p>Submitted to <i>{{ post.venue }}</i>, on {{ post.date | default: "1900-01-01" | date: "%Y" }} </p>
             {% endif %}
