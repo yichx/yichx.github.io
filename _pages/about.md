@@ -16,9 +16,9 @@ I am a fourth year undergraduate student in School of the Gifted Young at Univer
 ## Publications & Manuscripts
 \[1\] **Yichang Xu**, Chenwang Wu and Defu Lian. Apply Real-time Vicinal Defense make the Robust Recommendation. Submitted to *AAAI Conference on Artificial Intelligence (AAAI)*, 2024. [arXiv preprint](https://arxiv.org/abs/2309.17278)
 
-\[2\] **Yichang Xu**\*, Ming Yin\*, Minghong Fang and Neil Zhenqiang Gong. Poisoning Federated Recommendation Using Fake Users. Planning to submit to *The Web Conference (WWW)*, 2024. (\*: equal contribution)
+\[2\] **Yichang Xu**\*, Ming Yin\*, Minghong Fang and Neil Zhenqiang Gong. Poisoning Federated Recommendation Using Fake Users. Submitted to *The Web Conference (WWW)*, 2024. (\*: equal contribution)
 
-\[3\] **Yichang Xu**\*, Ming Yin\*, Minghong Fang and Neil Zhenqiang Gong. Robust Federated Learning Mitigates Client-side Data Reconstruction Attacks. Planning to submit to *The Web Conference (WWW)*, 2024.
+\[3\] **Yichang Xu**\*, Ming Yin\*, Minghong Fang and Neil Zhenqiang Gong. Robust Federated Learning Mitigates Client-side Data Reconstruction Attacks. Submitted to *The Web Conference (WWW)*, 2024.
 
 ## Research Experiences
 <span style="color: #007bff;"><b>Apply Real-time Vicinal Defense make the Robust Recommendation</b></span>  
