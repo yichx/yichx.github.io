@@ -3,7 +3,7 @@ title: "Poisoning Federated Recommendation Using Fake Users"
 collection: publications
 permalink: /publication/fedrec_poison
 excerpt: "Co-first author. This paper proposes a poisoning attack on federated recommender systems based on fake users that require no extra knowledge or local training data. &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<a href='/publication/fedrec_poison' target='_blank' style='color: #007bff; text-decoration: none; font-size: 20px;'>details...</a>"
-submitted: 0
+submitted: 1
 venue: 'WWW'
 date: 2023-10-15
 preprinted: 0
