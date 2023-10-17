@@ -7,9 +7,12 @@ redirect_from:
   - /about.html
 ---
 # Yichang Xu
-I am a fourth year undergraduate student in School of the Gifted Young at University of Science and Technology of China (USTC). My current research interests include various areas about trustworthy machine learning, like secure federated learning systems, secure recommender, etc.
 
 ## Education
+**University of Science and Technology of China (USTC)** Sept. 2020 - July 2024
+
+**School of the Gifted Young**
+
 **Overall GPA**(avg): 88.7; **Major GPA**(avg): 90.2
 
 **CS**: Operating System(H)(96), C Language Programming II(95), Data Structure(90), Introduction to Computer Systems A(98), Introduction to Information Security(96)
