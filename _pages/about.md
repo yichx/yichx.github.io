@@ -10,7 +10,8 @@ redirect_from:
 
 ## Education
 **University of Science and Technology of China (USTC)**  
-**School of the Gifted Young**  
+**School of the Gifted Young**
+
 **Overall GPA**(avg): 88.7; **Major GPA**(avg): 90.2  
 **CS**: Operating System(H)(96), C Language Programming II(95), Data Structure(90), Introduction to Computer Systems A(98), Introduction to Information Security(96)  
 **Math**: Linear Algebra B1(95), Mathematical Analysis B1(97), Mathematical Analysis B2(90), Fundations of Mathematical Logic(95), Introduction to Formal Method(96), Stochastic Processes B(95).
