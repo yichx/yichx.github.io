@@ -43,7 +43,7 @@ Advisor: Prof. [Neil Zhenqiang Gong](https://people.duke.edu/~zg70/) (Duke Unive
 * Proposed an aggregation rule to mitigate client-side data reconstruction attacks. Also proposed an adaptive attack that can slightly subvert our defense, but our defense still appears to be robust.
 * Compared our method on 10 baselines and 5 datasets. It significantly surpassed those baselines across many evaluation metrics. The method was also shown to be effective in membership inference attacks.
 
-<span style="color: #007bff;"><b>Accelerating TRADES via Coreset</b></span> (ongoing)  
+<span style="color: #007bff;"><b>Accelerating TRADES via Sequential Coreset Sampling</b></span> (ongoing)  
 Advisor: Prof. [Hu Ding](http://staff.ustc.edu.cn/~huding/) (USTC)
 * Employ a two-stage stratified sampling approach to construct a coreset and hence enhance the efficiency of the TRADES algorithm.
 * Give theoretical guarantee to the effectiveness of the proposed algorithm.
