@@ -45,7 +45,7 @@ Advisor: Prof. [Neil Zhenqiang Gong](https://people.duke.edu/~zg70/) (Duke Unive
 
 <span style="color: #007bff;"><b>Coreset: Theoretically Guaranteed Perspective to Accelerate TRADES</b></span> (ongoing)  
 Advisor: Prof. [Hu Ding](http://staff.ustc.edu.cn/~huding/) (USTC)
-* Employ a two-stage stratified sampling approach to construct a coreset and hence enhance the efficiency of the TRADES algorithm.
+* Employ a two-stage stratified sampling approach to construct a coreset and hence enhance the efficiency of TRADES.
 * Give theoretical guarantee to the effectiveness of the proposed algorithm.
   
 ## Awards & Honors
