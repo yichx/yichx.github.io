@@ -49,7 +49,6 @@ Advisor: Prof. [Hu Ding](http://staff.ustc.edu.cn/~huding/) (USTC)
 * Give theoretical guarantee to the effectiveness of the proposed algorithm.
   
 ## Awards & Honors
-* Qiangwei-Xinhe Scholarship (top 8 in SCGY department, 2023)
 * Outstanding Student Scholarship (gold, 3%, 2022)
 * Hua Xia Talent Program Scholarship (2022)
 * Outstanding Student Scholarship (silver, 10%, 2021)
